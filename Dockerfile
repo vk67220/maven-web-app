@@ -1,7 +1,7 @@
 FROM tomcat:9.0
 
 # Maintainer information
-MAINTAINER "Kastro Kiran V"
+MAINTAINER "vk67220"
 
 # Set the deployment directory
 WORKDIR /usr/local/tomcat/webapps/
